@@ -5,6 +5,7 @@
 //  Created by Matt Coneybeare on 1/8/12.
 //  Copyright (c) 2012 Urban Apps. All rights reserved.
 //
+//https://github.com/navisingh/UAModalPanel
 
 #import "UANoisyGradientBackground.h"
 #import "UIView+JMNoise.h"
